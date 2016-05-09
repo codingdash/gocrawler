@@ -1,2 +1,3 @@
 # gocrawler
-Go crawler
+
+Just for learning
